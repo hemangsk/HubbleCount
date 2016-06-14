@@ -3,7 +3,8 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:background="#fff"
-    tools:context="com.hemangkumar.tablayout.OneFrag">
+    tools:context="com.hemangkumar.tablayout.OneFrag"
+    android:elevation="@dimen/abc_action_bar_content_inset_material">
 
     <android.support.v4.widget.NestedScrollView
         android:layout_width="match_parent"
